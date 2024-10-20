@@ -1,4 +1,4 @@
-# Amarjeet-Profile
+# KNOW ABOUT ME !
 <h1 align="center">Hi 👋, I'm Amarjeet</h1>
 <h3 align="center">A passionate about DSA & Web Development from India.</h3>
 
